@@ -3,7 +3,7 @@ This project detects gas leaks using the MQ-2 gas sensor and an AT89C51 microcon
 
 ---
 
-## 🔧 Components
+### 🔧 Components
 - AT89C51 Microcontroller
 - MQ-2 Gas Sensor
 - 16x2 LCD Display (LM016L)
@@ -15,7 +15,7 @@ This project detects gas leaks using the MQ-2 gas sensor and an AT89C51 microcon
 - Proteus 8 Simulator
 - Keil µVision
 
-##🔍 Working Principle
+####🔍 Working Principle
 -The MQ-2 Gas Sensor detects gases like LPG, propane, methane, etc. It gives:
 -Analog output based on concentration.
 -Digital output (HIGH when gas is above threshold).
